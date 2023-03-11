@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\GeekBrains\C# Знакомство с языками программирования\Семинар 7\Решение задач\Task_47\obj\Debug\net6.0\Task_47.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\GeekBrains\C# Знакомство с языками программирования\Семинар 7\Решение задач\Task_47\obj\Debug\net6.0\Task_47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\GeekBrains\C# Знакомство с языками программирования\Семинар 7\Решение задач\Task_47\obj\Debug\net6.0\Task_47.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\GeekBrains\C# Знакомство с языками программирования\Семинар 7\Решение задач\Task_47\obj\Debug\net6.0\Task_47.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\GeekBrains\C# Знакомство с языками программирования\Семинар 7\Решение задач\Task_47\obj\Debug\net6.0\Task_47.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\GeekBrains\C# Знакомство с языками программирования\Семинар 7\Решение задач\Task_47\bin\Debug\net6.0\Task_47.exe
+C:\Users\ADMIN\Desktop\GeekBrains\C# Знакомство с языками программирования\Семинар 7\Решение задач\Task_47\bin\Debug\net6.0\Task_47.deps.json
+C:\Users\ADMIN\Desktop\GeekBrains\C# Знакомство с языками программирования\Семинар 7\Решение задач\Task_47\bin\Debug\net6.0\Task_47.runtimeconfig.json
+C:\Users\ADMIN\Desktop\GeekBrains\C# Знакомство с языками программирования\Семинар 7\Решение задач\Task_47\bin\Debug\net6.0\Task_47.dll
+C:\Users\ADMIN\Desktop\GeekBrains\C# Знакомство с языками программирования\Семинар 7\Решение задач\Task_47\bin\Debug\net6.0\Task_47.pdb
+C:\Users\ADMIN\Desktop\GeekBrains\C# Знакомство с языками программирования\Семинар 7\Решение задач\Task_47\obj\Debug\net6.0\Task_47.dll
+C:\Users\ADMIN\Desktop\GeekBrains\C# Знакомство с языками программирования\Семинар 7\Решение задач\Task_47\obj\Debug\net6.0\refint\Task_47.dll
+C:\Users\ADMIN\Desktop\GeekBrains\C# Знакомство с языками программирования\Семинар 7\Решение задач\Task_47\obj\Debug\net6.0\Task_47.pdb
+C:\Users\ADMIN\Desktop\GeekBrains\C# Знакомство с языками программирования\Семинар 7\Решение задач\Task_47\obj\Debug\net6.0\Task_47.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\GeekBrains\C# Знакомство с языками программирования\Семинар 7\Решение задач\Task_47\obj\Debug\net6.0\ref\Task_47.dll
